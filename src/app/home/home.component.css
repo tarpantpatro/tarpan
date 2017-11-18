@@ -1,0 +1,11 @@
+.img-contains{
+    position: relative;
+}
+.img-contains div {
+    position: relative;
+    z-index: 2;
+}
+.img-contains .img-back{
+    position: absolute;
+    opacity: 0.4;
+}
